@@ -24,6 +24,12 @@ class _QuoteListState extends State<QuoteList> {
         author: 'Ngugi wa Thiong\'i',
         text: 'He always makes me laugh with his jokes'),
     const Quote(
+        author: 'Margaret Ogola',
+        text: 'The River and The Source'),
+    const Quote(
+        author: 'Edna Thiong\'o',
+        text: 'Tea with mom'),
+    const Quote(
         author: 'John Kiriamiti',
         text: 'Learning a new language can be challenging, but it\'s rewarding')
   ];
